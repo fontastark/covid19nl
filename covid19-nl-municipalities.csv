@@ -1,0 +1,356 @@
+﻿id;id2;Gemeente;Indicator;11-Mar;12-Mar;13-Mar;14-Mar;15-Mar;16-Mar;17-Mar;18-Mar;19-Mar;20-Mar;21-Mar;22-Mar;23-Mar;24-Mar;25-Mar;26-Mar
+518;260;'s-Gravenhage;Aantal gevallen;7;7;8;9;10;14;17;21;27;;44;;53;63;81;103
+796;261;'s-Hertogenbosch;Aantal gevallen;5;8;11;14;14;20;24;30;35;;45;;60;67;75;87
+1680;1;Aa en Hunze;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;1;1;1;3
+358;2;Aalsmeer;Aantal gevallen;2;2;3;3;3;3;3;3;4;;5;;8;9;10;11
+197;3;Aalten;Aantal gevallen;0;0;0;0;0;0;0;0;0;;1;;1;1;2;2
+59;4;Achtkarspelen;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;0;0;1;1
+482;5;Alblasserdam;Aantal gevallen;0;0;0;0;0;0;1;1;2;;3;;4;4;5;6
+613;6;Albrandswaard;Aantal gevallen;1;1;1;1;1;2;3;4;4;;8;;14;18;18;19
+361;7;Alkmaar;Aantal gevallen;1;1;1;1;1;2;2;5;9;;11;;16;20;24;29
+141;8;Almelo;Aantal gevallen;1;1;1;1;1;1;1;1;2;;4;;7;8;10;12
+34;9;Almere;Aantal gevallen;1;1;1;2;2;3;3;4;5;;11;;18;21;28;32
+484;10;Alphen aan den Rijn;Aantal gevallen;2;3;4;6;6;6;6;9;10;;15;;17;20;22;30
+1723;11;Alphen-Chaam;Aantal gevallen;0;0;0;1;1;2;3;6;6;;7;;14;15;16;19
+1959;12;Altena;Aantal gevallen;4;5;8;9;10;12;12;15;19;;22;;25;28;35;35
+60;13;Ameland;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;0;0;0;0
+307;14;Amersfoort;Aantal gevallen;2;4;4;4;10;18;21;23;30;;37;;41;44;47;54
+362;15;Amstelveen;Aantal gevallen;2;2;3;3;3;4;6;7;13;;26;;29;33;35;46
+363;16;Amsterdam;Aantal gevallen;8;11;20;31;31;39;56;61;85;;161;;203;250;297;351
+200;17;Apeldoorn;Aantal gevallen;1;2;2;3;3;7;7;10;11;;16;;26;29;34;39
+3;18;Appingedam;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;0;0;0;0
+202;19;Arnhem;Aantal gevallen;3;4;4;4;7;7;8;9;10;;15;;20;23;25;34
+106;20;Assen;Aantal gevallen;0;0;0;0;0;0;0;0;0;;1;;4;5;5;7
+743;21;Asten;Aantal gevallen;0;0;0;0;1;1;2;2;2;;5;;5;6;6;6
+744;22;Baarle-Nassau;Aantal gevallen;0;0;0;0;0;0;0;0;0;;1;;1;1;2;2
+308;23;Baarn;Aantal gevallen;0;0;0;0;0;0;0;0;2;;1;;2;2;4;5
+489;24;Barendrecht;Aantal gevallen;0;1;1;1;3;3;3;3;4;;9;;13;15;16;19
+203;25;Barneveld;Aantal gevallen;0;0;0;0;2;3;4;5;6;;8;;10;12;13;13
+888;26;Beek;Aantal gevallen;0;0;0;0;3;3;3;3;3;;5;;5;9;13;13
+1954;27;Beekdaelen;Aantal gevallen;8;8;8;9;12;13;15;18;18;;19;;20;29;30;32
+370;28;Beemster;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;0;1;2;2
+889;29;Beesel;Aantal gevallen;0;0;0;0;0;0;0;0;0;;3;;5;6;7;8
+1945;30;Berg en Dal;Aantal gevallen;3;3;5;6;6;10;14;14;18;;25;;33;35;37;43
+1724;31;Bergeijk;Aantal gevallen;1;1;1;1;1;1;1;1;1;;1;;3;5;10;11
+893;32;Bergen (L);Aantal gevallen;0;0;0;0;0;0;0;1;1;;1;;1;1;1;1
+373;33;Bergen (NH);Aantal gevallen;0;0;0;0;1;1;1;2;4;;6;;9;12;12;14
+748;34;Bergen op Zoom;Aantal gevallen;1;1;1;1;4;4;5;5;6;;9;;12;12;12;13
+1859;35;Berkelland;Aantal gevallen;0;0;0;0;0;0;0;0;1;;1;;2;2;2;2
+1721;36;Bernheze;Aantal gevallen;2;4;13;15;16;19;20;26;30;;41;;62;67;69;83
+753;37;Best;Aantal gevallen;3;3;3;3;3;4;5;6;6;;11;;14;17;19;21
+209;38;Beuningen;Aantal gevallen;3;3;3;4;4;5;6;6;6;;9;;12;13;15;15
+375;39;Beverwijk;Aantal gevallen;4;5;5;5;5;5;6;6;6;;6;;7;11;11;12
+1728;40;Bladel;Aantal gevallen;0;0;0;1;1;1;1;2;3;;7;;12;14;15;15
+376;41;Blaricum;Aantal gevallen;1;1;1;1;1;1;1;2;2;;4;;4;4;5;6
+377;42;Bloemendaal;Aantal gevallen;1;1;1;1;1;1;3;3;3;;8;;11;13;13;16
+1901;43;Bodegraven-Reeuwijk;Aantal gevallen;0;1;1;1;1;1;1;1;1;;3;;5;5;5;8
+755;44;Boekel;Aantal gevallen;7;8;11;12;12;14;14;19;20;;32;;40;42;42;42
+1681;45;Borger-Odoorn;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;0;0;0;0
+147;46;Borne;Aantal gevallen;3;2;3;3;3;3;3;3;3;;4;;7;8;11;12
+654;47;Borsele;Aantal gevallen;1;1;1;1;1;2;2;2;3;;3;;3;4;5;6
+756;48;Boxmeer;Aantal gevallen;0;0;1;1;1;1;1;2;2;;6;;7;9;9;10
+757;49;Boxtel;Aantal gevallen;0;1;1;2;2;3;5;5;6;;11;;12;15;15;19
+758;50;Breda;Aantal gevallen;32;42;53;64;71;86;96;105;113;;133;;161;167;181;201
+501;51;Brielle;Aantal gevallen;0;0;0;0;0;0;0;0;1;;1;;1;1;1;2
+1876;52;Bronckhorst;Aantal gevallen;2;2;2;2;2;2;2;2;3;;6;;6;7;7;8
+213;53;Brummen;Aantal gevallen;0;0;0;0;0;0;0;0;1;;1;;4;4;4;4
+899;54;Brunssum;Aantal gevallen;0;0;0;0;0;0;2;4;4;;6;;8;17;20;22
+312;55;Bunnik;Aantal gevallen;0;0;0;0;0;0;0;0;1;;3;;4;6;8;9
+313;56;Bunschoten;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;0;1;3;3
+214;57;Buren;Aantal gevallen;0;1;2;2;2;4;4;4;5;;5;;5;6;7;7
+502;58;Capelle aan den IJssel;Aantal gevallen;0;0;0;0;0;0;1;1;2;;3;;7;13;23;26
+383;59;Castricum;Aantal gevallen;0;0;0;4;5;5;5;5;6;;7;;8;10;10;13
+109;60;Coevorden;Aantal gevallen;11;11;11;11;11;11;11;12;12;;14;;14;15;15;17
+1706;61;Cranendonck;Aantal gevallen;1;1;2;2;2;2;5;6;6;;11;;19;23;25;31
+1684;62;Cuijk;Aantal gevallen;1;1;2;2;2;2;2;2;4;;4;;5;6;8;8
+216;63;Culemborg;Aantal gevallen;1;1;2;2;2;2;4;4;4;;5;;5;8;8;14
+148;64;Dalfsen;Aantal gevallen;0;0;0;0;1;1;1;1;1;;5;;9;11;12;13
+1891;65;Dantumadiel;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;0;0;0;1
+310;66;De Bilt;Aantal gevallen;10;11;11;11;12;13;15;16;16;;19;;23;27;32;34
+1940;67;De Fryske Marren;Aantal gevallen;0;1;2;2;3;3;3;5;5;;8;;8;8;9;12
+736;68;De Ronde Venen;Aantal gevallen;0;0;0;0;0;2;2;2;2;;3;;6;8;9;13
+1690;69;De Wolden;Aantal gevallen;0;0;0;1;1;1;1;1;1;;3;;3;3;3;3
+503;70;Delft;Aantal gevallen;1;1;2;2;2;2;2;4;5;;11;;16;17;21;25
+10;71;Delfzijl;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;1;1;1;2
+400;72;Den Helder;Aantal gevallen;1;1;1;1;1;1;1;1;2;;3;;4;5;5;6
+762;73;Deurne;Aantal gevallen;3;3;3;3;4;5;8;8;10;;19;;22;25;30;35
+150;74;Deventer;Aantal gevallen;0;0;0;0;1;2;4;5;5;;16;;17;20;26;30
+384;75;Diemen;Aantal gevallen;2;2;2;2;2;2;2;2;2;;3;;4;4;6;6
+1774;76;Dinkelland;Aantal gevallen;2;1;3;4;4;5;5;6;8;;13;;15;17;20;25
+221;77;Doesburg;Aantal gevallen;0;0;0;0;1;1;1;1;1;;3;;4;4;5;5
+222;78;Doetinchem;Aantal gevallen;0;0;0;0;0;0;0;0;3;;5;;6;8;10;17
+766;79;Dongen;Aantal gevallen;4;4;4;5;5;5;5;5;5;;2;;2;4;6;6
+505;80;Dordrecht;Aantal gevallen;0;0;1;1;1;1;4;4;8;;12;;17;23;26;28
+498;81;Drechterland;Aantal gevallen;0;0;0;0;0;0;0;0;0;;2;;2;3;3;4
+1719;82;Drimmelen;Aantal gevallen;1;3;5;5;5;7;11;12;13;;14;;16;17;20;21
+303;83;Dronten;Aantal gevallen;0;0;2;3;6;7;7;8;9;;11;;11;11;11;11
+225;84;Druten;Aantal gevallen;0;0;1;3;5;5;5;5;5;;5;;6;6;7;7
+226;85;Duiven;Aantal gevallen;0;0;1;1;1;1;1;2;2;;2;;2;2;2;3
+1711;86;Echt-Susteren;Aantal gevallen;0;0;0;0;0;0;2;6;6;;11;;14;15;20;23
+385;87;Edam-Volendam;Aantal gevallen;0;0;0;0;0;0;0;0;3;;4;;6;7;9;10
+228;88;Ede;Aantal gevallen;0;0;0;0;1;2;2;5;5;;13;;21;22;26;33
+317;89;Eemnes;Aantal gevallen;0;0;0;0;0;0;0;1;1;;1;;1;1;1;1
+770;90;Eersel;Aantal gevallen;0;1;1;2;2;2;3;4;4;;7;;10;13;13;14
+1903;91;Eijsden-Margraten;Aantal gevallen;0;0;0;1;3;4;4;4;4;;6;;7;15;20;26
+772;92;Eindhoven;Aantal gevallen;8;8;12;13;21;21;22;23;24;;35;;55;68;80;93
+230;93;Elburg;Aantal gevallen;0;0;1;1;1;1;1;1;1;;2;;4;4;5;6
+114;94;Emmen;Aantal gevallen;1;1;1;1;1;1;1;2;3;;4;;6;7;8;8
+388;95;Enkhuizen;Aantal gevallen;0;0;0;0;0;1;1;1;5;;6;;8;10;13;15
+153;96;Enschede;Aantal gevallen;1;3;3;3;3;3;3;4;7;;16;;20;20;26;34
+232;97;Epe;Aantal gevallen;0;0;0;0;0;2;2;4;4;;6;;10;13;15;16
+233;98;Ermelo;Aantal gevallen;1;3;4;5;7;8;8;8;8;;11;;13;14;17;17
+777;99;Etten-Leur;Aantal gevallen;5;5;6;7;8;10;12;13;14;;18;;24;24;31;37
+779;100;Geertruidenberg;Aantal gevallen;1;1;1;1;1;3;5;7;7;;7;;10;10;11;11
+1771;101;Geldrop-Mierlo;Aantal gevallen;0;1;2;2;2;3;3;3;4;;6;;8;9;15;16
+1652;102;Gemert-Bakel;Aantal gevallen;4;7;11;13;16;20;25;26;31;;42;;56;64;68;71
+907;103;Gennep;Aantal gevallen;0;0;1;1;1;1;1;2;4;;5;;7;7;7;8
+784;104;Gilze en Rijen;Aantal gevallen;0;0;1;1;1;1;1;3;5;;7;;13;16;18;19
+1924;105;Goeree-Overflakkee;Aantal gevallen;0;0;1;1;2;4;5;7;8;;16;;36;43;44;56
+664;106;Goes;Aantal gevallen;2;2;2;2;2;2;2;3;3;;3;;3;4;4;7
+785;107;Goirle;Aantal gevallen;6;6;6;6;6;9;9;9;11;;12;;13;16;18;21
+1942;108;Gooise Meren;Aantal gevallen;3;3;3;4;4;4;9;9;10;;11;;11;12;18;20
+512;109;Gorinchem;Aantal gevallen;0;0;0;0;0;0;0;0;1;;0;;2;4;8;9
+513;110;Gouda;Aantal gevallen;2;2;2;2;3;4;5;7;9;;12;;16;17;18;25
+786;111;Grave;Aantal gevallen;0;0;0;0;0;0;0;1;2;;6;;11;11;11;14
+14;112;Groningen;Aantal gevallen;0;2;3;3;6;7;7;11;23;;39;;53;53;58;76
+1729;113;Gulpen-Wittem;Aantal gevallen;0;0;0;0;1;2;2;2;2;;2;;2;4;5;5
+158;114;Haaksbergen;Aantal gevallen;0;0;0;0;1;1;1;1;1;;1;;3;3;3;4
+788;115;Haaren;Aantal gevallen;6;6;7;7;7;7;7;9;9;;10;;12;12;12;14
+392;116;Haarlem;Aantal gevallen;1;1;4;4;4;6;7;7;10;;25;;29;41;46;54
+394;117;Haarlemmermeer;Aantal gevallen;0;0;0;0;1;2;4;4;5;;12;;18;23;23;30
+1655;118;Halderberge;Aantal gevallen;0;0;0;0;0;2;2;2;2;;5;;7;8;8;8
+160;119;Hardenberg;Aantal gevallen;0;0;0;0;0;0;0;0;0;;3;;4;6;7;9
+243;120;Harderwijk;Aantal gevallen;0;2;2;2;2;4;4;5;5;;5;;8;9;13;14
+523;121;Hardinxveld-Giessendam;Aantal gevallen;5;5;5;5;5;5;5;5;5;;6;;6;6;6;6
+72;122;Harlingen;Aantal gevallen;0;0;0;0;0;1;1;1;1;;3;;3;3;3;3
+244;123;Hattem;Aantal gevallen;0;0;0;0;0;0;0;0;0;;1;;1;2;3;5
+396;124;Heemskerk;Aantal gevallen;0;0;1;1;1;2;2;2;3;;5;;5;7;9;10
+397;125;Heemstede;Aantal gevallen;1;2;2;2;2;5;5;5;5;;11;;13;16;17;21
+246;126;Heerde;Aantal gevallen;0;0;0;0;0;2;3;3;4;;9;;13;15;19;24
+74;127;Heerenveen;Aantal gevallen;0;0;0;0;0;0;0;0;0;;2;;3;3;3;4
+398;128;Heerhugowaard;Aantal gevallen;0;0;0;0;1;1;1;2;2;;5;;10;15;16;19
+917;129;Heerlen;Aantal gevallen;1;2;2;4;5;6;8;14;15;;19;;29;46;53;63
+1658;130;Heeze-Leende;Aantal gevallen;1;1;1;1;1;2;3;4;4;;4;;7;7;10;10
+399;131;Heiloo;Aantal gevallen;0;0;2;2;2;3;3;3;3;;4;;6;8;9;10
+163;132;Hellendoorn;Aantal gevallen;2;2;2;2;2;2;2;2;2;;3;;5;6;7;7
+530;133;Hellevoetsluis;Aantal gevallen;0;1;1;1;1;1;1;1;1;;4;;5;5;5;7
+794;134;Helmond;Aantal gevallen;12;14;16;17;17;17;19;20;22;;32;;49;55;63;66
+531;135;Hendrik-Ido-Ambacht;Aantal gevallen;0;2;0;0;0;0;0;0;0;;0;;2;2;3;5
+164;136;Hengelo (O);Aantal gevallen;0;0;0;0;0;3;3;4;4;;13;;15;16;17;21
+1966;137;Het Hogeland;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;1;1;4;6
+252;138;Heumen;Aantal gevallen;0;0;0;0;2;2;3;5;6;;7;;9;11;12;15
+797;139;Heusden;Aantal gevallen;2;3;4;4;4;4;4;5;6;;11;;16;19;20;25
+534;140;Hillegom;Aantal gevallen;0;0;0;0;0;0;0;1;1;;2;;2;3;3;3
+798;141;Hilvarenbeek;Aantal gevallen;1;1;5;5;5;4;4;4;4;;5;;7;8;10;10
+402;142;Hilversum;Aantal gevallen;0;0;0;0;0;0;3;3;3;;7;;7;7;16;18
+1963;143;Hoeksche Waard;Aantal gevallen;2;1;1;1;2;4;6;8;12;;17;;23;31;36;43
+1735;144;Hof van Twente;Aantal gevallen;0;0;0;0;1;1;1;3;3;;4;;5;5;6;8
+1911;145;Hollands Kroon;Aantal gevallen;0;0;0;0;0;0;0;1;3;;6;;8;10;10;14
+118;146;Hoogeveen;Aantal gevallen;0;0;1;2;2;2;2;3;3;;5;;5;6;7;7
+405;147;Hoorn;Aantal gevallen;0;0;0;0;0;1;1;1;2;;8;;11;12;14;15
+1507;148;Horst aan de Maas;Aantal gevallen;0;0;2;3;3;5;8;8;10;;13;;16;17;18;20
+321;149;Houten;Aantal gevallen;13;13;13;13;13;13;13;14;17;;19;;25;29;37;43
+406;150;Huizen;Aantal gevallen;2;1;1;1;1;1;1;2;3;;3;;3;3;7;8
+677;151;Hulst;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;0;0;1;1
+353;152;IJsselstein;Aantal gevallen;1;1;1;1;2;4;6;7;8;;11;;16;16;18;23
+1884;153;Kaag en Braassem;Aantal gevallen;0;0;0;0;0;0;0;0;1;;1;;2;4;5;5
+166;154;Kampen;Aantal gevallen;0;0;0;0;0;0;1;2;2;;12;;17;20;30;41
+678;155;Kapelle;Aantal gevallen;0;0;0;0;0;0;1;2;2;;2;;2;2;2;2
+537;156;Katwijk;Aantal gevallen;0;1;1;1;1;1;1;2;2;;5;;6;6;7;10
+928;157;Kerkrade;Aantal gevallen;0;0;0;1;2;2;3;3;3;;6;;8;17;21;26
+1598;158;Koggenland;Aantal gevallen;0;0;0;1;1;1;1;1;1;;1;;4;4;5;6
+542;159;Krimpen aan den IJssel;Aantal gevallen;0;1;1;1;1;1;1;1;2;;2;;3;3;6;7
+1931;160;Krimpenerwaard;Aantal gevallen;3;3;3;3;4;4;4;4;5;;9;;11;12;16;19
+1659;161;Laarbeek;Aantal gevallen;0;0;1;1;1;1;1;2;4;;8;;13;17;19;24
+1685;162;Landerd;Aantal gevallen;2;2;4;5;5;10;14;16;18;;20;;23;25;25;34
+882;163;Landgraaf;Aantal gevallen;0;1;2;4;4;4;4;7;7;;9;;11;18;21;25
+415;164;Landsmeer;Aantal gevallen;0;2;2;2;3;3;3;3;3;;4;;5;6;6;7
+416;165;Langedijk;Aantal gevallen;1;1;3;3;4;4;4;4;4;;4;;5;12;12;13
+1621;166;Lansingerland;Aantal gevallen;4;4;4;4;5;5;7;10;13;;16;;20;24;25;28
+417;167;Laren;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;0;3;4;5
+80;168;Leeuwarden;Aantal gevallen;0;1;1;1;1;2;3;4;5;;8;;10;10;12;15
+546;169;Leiden;Aantal gevallen;1;1;4;4;4;8;8;11;12;;16;;16;20;21;28
+547;170;Leiderdorp;Aantal gevallen;0;0;0;0;0;1;1;2;2;;2;;2;2;3;4
+1916;171;Leidschendam-Voorburg;Aantal gevallen;2;2;3;3;3;4;5;6;6;;9;;10;13;14;17
+995;172;Lelystad;Aantal gevallen;1;1;3;6;7;8;10;12;13;;15;;21;24;26;27
+1640;173;Leudal;Aantal gevallen;3;4;4;6;6;7;8;11;13;;20;;23;26;29;32
+327;174;Leusden;Aantal gevallen;0;0;0;0;0;1;1;3;4;;6;;7;9;13;13
+1705;175;Lingewaard;Aantal gevallen;2;2;2;3;3;3;3;4;5;;6;;10;11;14;14
+553;176;Lisse;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;1;1;2;2
+262;177;Lochem;Aantal gevallen;0;0;0;0;0;0;0;1;1;;2;;2;2;6;8
+809;178;Loon op Zand;Aantal gevallen;7;6;7;7;7;7;8;9;11;;14;;17;20;20;21
+331;179;Lopik;Aantal gevallen;0;0;0;0;0;1;2;3;3;;4;;9;10;11;12
+24;180;Loppersum;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;0;0;0;1
+168;181;Losser;Aantal gevallen;0;0;0;0;0;0;0;0;0;;1;;1;1;1;1
+263;182;Maasdriel;Aantal gevallen;0;0;0;0;0;0;1;1;1;;2;;2;3;3;5
+1641;183;Maasgouw;Aantal gevallen;0;0;0;1;2;2;3;4;5;;7;;9;9;10;12
+556;184;Maassluis;Aantal gevallen;0;0;0;1;1;1;1;2;2;;3;;6;7;7;8
+935;185;Maastricht;Aantal gevallen;8;8;10;16;21;24;33;41;42;;57;;60;94;112;118
+420;186;Medemblik;Aantal gevallen;0;0;0;0;0;0;0;0;0;;1;;4;4;4;6
+938;187;Meerssen;Aantal gevallen;0;0;0;0;0;1;1;2;2;;2;;3;8;8;8
+1948;188;Meierijstad;Aantal gevallen;13;18;25;30;34;42;49;60;72;;95;;127;139;149;168
+119;189;Meppel;Aantal gevallen;0;0;0;0;0;0;0;0;0;;1;;3;3;3;3
+687;190;Middelburg;Aantal gevallen;0;0;0;0;0;1;1;2;3;;4;;6;6;7;8
+1842;191;Midden-Delfland;Aantal gevallen;0;0;0;0;0;0;0;0;1;;2;;2;2;2;2
+1731;192;Midden-Drenthe;Aantal gevallen;0;0;0;0;0;0;0;0;1;;1;;1;1;1;2
+1952;193;Midden-Groningen;Aantal gevallen;0;0;0;0;1;1;1;2;2;;2;;2;2;2;5
+815;194;Mill en Sint Hubert;Aantal gevallen;0;0;0;0;1;1;1;1;2;;2;;2;5;5;5
+1709;195;Moerdijk;Aantal gevallen;0;1;1;1;1;1;1;1;2;;3;;3;4;5;5
+1978;196;Molenlanden;Aantal gevallen;0;0;0;0;1;2;3;7;9;;11;;11;13;16;16
+1955;197;Montferland;Aantal gevallen;0;0;0;0;0;0;0;1;1;;1;;3;3;3;4
+335;198;Montfoort;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;2;3;5;9
+944;199;Mook en Middelaar;Aantal gevallen;0;0;0;0;0;0;0;0;1;;1;;3;5;5;5
+1740;200;Neder-Betuwe;Aantal gevallen;1;1;3;3;4;4;4;4;4;;5;;9;11;11;13
+946;201;Nederweert;Aantal gevallen;0;0;1;3;3;3;5;7;7;;7;;9;11;14;18
+356;202;Nieuwegein;Aantal gevallen;0;0;0;0;1;1;3;4;6;;9;;11;11;12;15
+569;203;Nieuwkoop;Aantal gevallen;0;0;1;1;1;1;1;1;1;;2;;3;4;6;6
+267;204;Nijkerk;Aantal gevallen;0;0;0;0;0;1;2;2;2;;4;;7;8;8;12
+268;205;Nijmegen;Aantal gevallen;4;6;8;9;12;17;31;41;48;;60;;79;93;108;122
+1930;206;Nissewaard;Aantal gevallen;0;1;1;1;1;1;3;4;7;;12;;15;17;19;23
+1970;207;Noardeast-FryslÃ¢n;Aantal gevallen;0;0;0;0;0;0;0;0;1;;1;;2;3;3;3
+1695;208;Noord-Beveland;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;0;1;2;2
+1699;209;Noordenveld;Aantal gevallen;0;0;0;0;0;1;1;1;1;;1;;1;1;1;3
+171;210;Noordoostpolder;Aantal gevallen;0;0;0;2;2;2;2;2;2;;3;;3;4;5;8
+575;211;Noordwijk;Aantal gevallen;2;2;2;2;2;2;2;2;3;;3;;6;6;7;8
+820;212;Nuenen, Gerwen en Nederwetten;Aantal gevallen;1;1;1;1;1;1;1;1;1;;1;;4;4;8;10
+302;213;Nunspeet;Aantal gevallen;0;0;1;1;1;2;2;3;3;;9;;17;22;29;31
+579;214;Oegstgeest;Aantal gevallen;2;2;2;4;4;4;4;4;5;;7;;7;8;9;9
+823;215;Oirschot;Aantal gevallen;0;0;0;0;0;1;1;1;1;;1;;3;4;6;8
+824;216;Oisterwijk;Aantal gevallen;4;5;6;6;6;9;10;10;10;;15;;16;16;18;21
+1895;217;Oldambt;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;0;0;0;0
+269;218;Oldebroek;Aantal gevallen;0;1;1;1;1;2;2;5;5;;6;;7;8;12;16
+173;219;Oldenzaal;Aantal gevallen;0;0;0;1;1;1;1;2;3;;6;;6;8;13;15
+1773;220;Olst-Wijhe;Aantal gevallen;0;0;0;0;0;0;0;0;0;;2;;2;4;6;6
+175;221;Ommen;Aantal gevallen;0;0;0;1;1;1;1;2;2;;4;;6;6;7;7
+1586;222;Oost Gelre;Aantal gevallen;0;0;0;0;0;0;0;0;0;;2;;2;6;6;6
+826;223;Oosterhout;Aantal gevallen;0;0;3;4;5;6;8;9;9;;13;;22;23;26;29
+85;224;Ooststellingwerf;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;0;0;1;1
+431;225;Oostzaan;Aantal gevallen;0;0;0;0;0;0;1;2;2;;3;;5;5;6;7
+432;226;Opmeer;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;0;0;0;2
+86;227;Opsterland;Aantal gevallen;2;2;2;2;2;2;2;2;2;;2;;3;3;4;5
+828;228;Oss;Aantal gevallen;2;3;3;4;5;11;14;20;26;;44;;65;73;81;100
+1509;229;Oude IJsselstreek;Aantal gevallen;0;0;0;0;0;1;2;2;2;;4;;4;4;4;5
+437;230;Ouder-Amstel;Aantal gevallen;0;0;0;0;0;0;2;3;3;;4;;5;7;7;7
+589;231;Oudewater;Aantal gevallen;0;0;0;0;1;1;1;1;2;;3;;4;7;10;12
+1734;232;Overbetuwe;Aantal gevallen;0;0;0;4;6;8;9;9;11;;20;;30;33;38;44
+590;233;Papendrecht;Aantal gevallen;0;0;0;0;0;0;0;0;1;;2;;5;5;6;6
+1894;234;Peel en Maas;Aantal gevallen;3;4;8;10;14;19;31;36;41;;63;;69;79;88;96
+765;235;Pekela;Aantal gevallen;0;1;1;1;1;1;1;1;1;;2;;2;2;2;2
+1926;236;Pijnacker-Nootdorp;Aantal gevallen;5;5;6;6;7;8;10;11;11;;11;;12;14;16;20
+439;237;Purmerend;Aantal gevallen;1;1;2;2;2;2;2;4;7;;14;;22;23;32;39
+273;238;Putten;Aantal gevallen;0;0;0;0;0;2;2;2;2;;3;;3;3;5;6
+177;239;Raalte;Aantal gevallen;0;1;1;1;1;2;3;3;3;;3;;5;6;10;12
+703;240;Reimerswaal;Aantal gevallen;0;1;1;1;1;2;2;3;4;;5;;5;6;7;7
+274;241;Renkum;Aantal gevallen;7;7;7;7;8;8;8;8;8;;9;;10;11;12;14
+339;242;Renswoude;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;0;0;0;0
+1667;243;Reusel-De Mierden;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;1;1;1;4
+275;244;Rheden;Aantal gevallen;1;1;1;1;1;1;2;3;4;;7;;12;15;18;21
+340;245;Rhenen;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;1;1;1;2
+597;246;Ridderkerk;Aantal gevallen;1;1;1;1;1;1;1;1;1;;4;;5;7;9;13
+1742;247;Rijssen-Holten;Aantal gevallen;0;0;0;0;0;0;0;0;0;;3;;4;4;9;13
+603;248;Rijswijk;Aantal gevallen;0;0;0;0;0;1;2;3;3;;4;;7;8;10;11
+1669;249;Roerdalen;Aantal gevallen;0;0;0;0;0;0;0;1;1;;4;;7;10;10;11
+957;250;Roermond;Aantal gevallen;1;1;1;2;2;2;4;6;13;;18;;23;26;28;29
+1674;251;Roosendaal;Aantal gevallen;1;1;2;2;5;6;6;6;7;;8;;16;18;20;24
+599;252;Rotterdam;Aantal gevallen;15;15;20;24;25;30;41;58;81;;120;;149;163;186;204
+277;253;Rozendaal;Aantal gevallen;0;0;0;0;1;1;1;2;2;;2;;2;2;2;2
+840;254;Rucphen;Aantal gevallen;0;0;0;0;1;1;1;1;2;;6;;6;6;6;6
+1900;279;SÃºdwest-FryslÃ¢n;Aantal gevallen;0;0;0;0;0;0;4;5;6;;7;;7;10;11;12
+441;255;Schagen;Aantal gevallen;1;1;2;3;4;4;0;0;0;;0;;2;2;2;3
+279;256;Scherpenzeel;Aantal gevallen;0;0;0;0;0;0;1;1;2;;6;;8;10;14;16
+606;257;Schiedam;Aantal gevallen;0;0;0;0;1;1;0;0;0;;0;;0;0;0;0
+88;258;Schiermonnikoog;Aantal gevallen;0;0;0;0;0;0;2;2;2;;3;;3;3;6;8
+1676;259;Schouwen-Duiveland;Aantal gevallen;2;2;2;2;2;2;4;5;5;;5;;5;7;8;10
+965;262;Simpelveld;Aantal gevallen;2;2;2;2;3;3;4;5;8;;12;;13;13;13;14
+1702;263;Sint Anthonis;Aantal gevallen;0;0;0;2;2;3;8;10;10;;12;;14;17;18;22
+845;264;Sint-Michielsgestel;Aantal gevallen;5;5;5;6;6;8;42;51;51;;58;;61;84;86;94
+1883;265;Sittard-Geleen;Aantal gevallen;20;20;23;35;37;38;1;1;1;;3;;3;4;5;7
+610;266;Sliedrecht;Aantal gevallen;0;0;0;0;0;0;2;2;2;;3;;4;5;5;6
+1714;267;Sluis;Aantal gevallen;0;0;0;0;1;2;3;3;3;;3;;3;3;4;5
+90;268;Smallingerland;Aantal gevallen;1;1;1;2;3;3;11;12;13;;15;;16;20;21;23
+342;269;Soest;Aantal gevallen;8;8;8;8;8;10;2;3;3;;5;;7;7;10;15
+847;270;Someren;Aantal gevallen;0;0;0;1;1;1;4;4;5;;8;;10;13;15;19
+848;271;Son en Breugel;Aantal gevallen;1;1;2;2;2;4;0;0;0;;0;;0;0;0;1
+37;272;Stadskanaal;Aantal gevallen;0;0;0;0;0;0;1;1;2;;3;;4;4;4;4
+180;273;Staphorst;Aantal gevallen;0;0;0;1;1;1;1;1;3;;5;;8;9;13;17
+532;274;Stede Broec;Aantal gevallen;0;0;0;0;0;1;2;2;4;;5;;8;9;11;11
+851;275;Steenbergen;Aantal gevallen;0;0;0;0;1;2;1;1;1;;3;;4;5;6;8
+1708;276;Steenwijkerland;Aantal gevallen;0;0;0;0;0;0;3;4;4;;5;;9;24;24;28
+971;277;Stein;Aantal gevallen;1;1;1;3;3;3;8;9;10;;10;;13;16;22;27
+1904;278;Stichtse Vecht;Aantal gevallen;5;5;6;6;7;7;1;2;2;;4;;5;6;8;12
+715;280;Terneuzen;Aantal gevallen;0;0;0;1;1;1;2;3;4;;5;;6;6;10;14
+93;281;Terschelling;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;0;0;0;0
+448;282;Texel;Aantal gevallen;0;0;0;0;0;0;0;0;2;;3;;3;3;3;3
+1525;283;Teylingen;Aantal gevallen;0;0;0;0;0;1;2;2;2;;5;;7;7;8;10
+716;284;Tholen;Aantal gevallen;0;0;0;0;1;1;1;2;2;;7;;8;11;13;14
+281;285;Tiel;Aantal gevallen;1;2;2;2;3;4;4;4;4;;4;;6;8;14;20
+855;286;Tilburg;Aantal gevallen;42;50;67;68;68;84;88;95;119;;154;;193;211;224;230
+183;287;Tubbergen;Aantal gevallen;1;1;1;1;1;1;1;1;3;;3;;4;4;4;9
+1700;288;Twenterand;Aantal gevallen;0;0;0;0;0;0;0;0;0;;1;;2;3;3;3
+1730;289;Tynaarlo;Aantal gevallen;0;0;0;0;0;;1;3;4;;7;;8;10;13;15
+737;290;Tytsjerksteradiel;Aantal gevallen;0;0;0;0;0;1;1;1;1;;1;;1;1;2;2
+856;291;Uden;Aantal gevallen;18;21;25;28;33;43;49;53;60;;76;;84;92;94;107
+450;292;Uitgeest;Aantal gevallen;0;0;0;0;0;0;0;0;0;;2;;4;4;4;4
+451;293;Uithoorn;Aantal gevallen;0;0;0;0;0;0;0;1;2;;2;;2;4;5;7
+184;294;Urk;Aantal gevallen;0;0;0;0;0;0;0;1;4;;6;;7;7;7;8
+344;295;Utrecht;Aantal gevallen;18;25;26;30;38;48;60;69;83;;121;;145;160;191;215
+1581;296;Utrechtse Heuvelrug;Aantal gevallen;2;2;2;2;2;3;5;6;8;;8;;14;14;15;17
+981;297;Vaals;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;0;3;4;6
+994;298;Valkenburg aan de Geul;Aantal gevallen;0;0;0;0;0;1;2;2;2;;4;;4;8;9;10
+858;299;Valkenswaard;Aantal gevallen;0;0;0;0;0;0;0;1;1;;4;;5;8;9;17
+47;300;Veendam;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;0;0;1;1
+345;301;Veenendaal;Aantal gevallen;0;1;1;1;1;1;1;1;2;;2;;6;6;7;7
+717;302;Veere;Aantal gevallen;1;1;1;1;1;1;1;1;1;;5;;6;6;6;7
+861;303;Veldhoven;Aantal gevallen;1;1;1;1;1;1;1;1;2;;9;;11;14;18;22
+453;304;Velsen;Aantal gevallen;0;1;1;1;1;4;4;4;4;;8;;11;15;15;23
+983;305;Venlo;Aantal gevallen;1;2;2;3;4;6;8;12;21;;33;;35;40;47;54
+984;306;Venray;Aantal gevallen;0;0;0;0;0;0;0;1;3;;8;;10;13;17;20
+1961;307;Vijfheerenlanden;Aantal gevallen;1;1;2;2;2;3;4;4;7;;9;;12;18;21;24
+622;308;Vlaardingen;Aantal gevallen;0;1;1;1;1;1;2;2;4;;12;;15;18;22;24
+96;309;Vlieland;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;0;0;0;0
+718;310;Vlissingen;Aantal gevallen;0;2;2;2;2;3;4;4;5;;6;;8;8;8;8
+986;311;Voerendaal;Aantal gevallen;0;0;0;0;0;0;1;3;3;;4;;4;5;6;7
+626;312;Voorschoten;Aantal gevallen;0;0;0;0;0;0;0;1;1;;2;;3;3;5;6
+285;313;Voorst;Aantal gevallen;1;1;1;1;1;1;1;1;1;;2;;2;3;6;10
+865;314;Vught;Aantal gevallen;1;2;2;2;2;3;6;7;8;;11;;17;19;22;25
+1949;315;Waadhoeke;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;0;0;0;2
+866;316;Waalre;Aantal gevallen;1;1;1;1;1;1;1;2;2;;2;;2;3;2;6
+867;317;Waalwijk;Aantal gevallen;6;6;9;8;8;10;11;12;13;;16;;24;29;34;39
+627;318;Waddinxveen;Aantal gevallen;1;1;1;1;1;1;1;1;3;;4;;4;4;5;6
+289;319;Wageningen;Aantal gevallen;0;0;0;0;0;0;1;1;1;;3;;3;3;3;4
+629;320;Wassenaar;Aantal gevallen;0;0;1;2;2;3;3;3;4;;5;;5;5;5;6
+852;321;Waterland;Aantal gevallen;1;1;1;1;2;3;3;4;7;;8;;9;10;11;11
+988;322;Weert;Aantal gevallen;0;0;0;0;0;0;0;0;0;;7;;12;17;24;28
+457;323;Weesp;Aantal gevallen;0;0;0;0;0;0;0;0;0;;1;;1;2;6;7
+1960;324;West Betuwe;Aantal gevallen;2;2;3;3;3;3;6;6;8;;12;;15;17;19;22
+668;325;West Maas en Waal;Aantal gevallen;1;2;2;2;3;3;3;3;3;;4;;7;8;11;13
+1969;326;Westerkwartier;Aantal gevallen;0;0;0;0;1;1;1;1;3;;3;;8;8;9;12
+1701;327;Westerveld;Aantal gevallen;0;0;0;0;0;0;0;0;0;;1;;2;2;2;2
+293;328;Westervoort;Aantal gevallen;0;0;0;0;0;0;0;0;0;;1;;2;2;2;2
+1950;329;Westerwolde;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;0;0;3;3
+1783;330;Westland;Aantal gevallen;0;0;0;0;1;1;3;6;7;;11;;21;25;28;30
+98;331;Weststellingwerf;Aantal gevallen;0;0;0;0;0;0;0;0;0;;1;;1;1;1;2
+614;332;Westvoorne;Aantal gevallen;1;1;1;2;3;3;3;3;3;;3;;7;8;8;8
+189;333;Wierden;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;0;0;1;2
+296;334;Wijchen;Aantal gevallen;1;2;3;2;4;5;6;8;8;;17;;21;23;24;30
+1696;335;Wijdemeren;Aantal gevallen;0;0;0;0;0;0;0;1;1;;1;;1;1;3;4
+352;336;Wijk bij Duurstede;Aantal gevallen;1;2;2;3;3;3;4;4;4;;6;;6;6;6;7
+294;337;Winterswijk;Aantal gevallen;0;0;0;0;0;0;0;0;0;;1;;2;2;2;2
+873;338;Woensdrecht;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;3;4;5;5
+632;339;Woerden;Aantal gevallen;2;2;2;2;2;2;3;4;4;;6;;14;19;22;25
+880;340;Wormerland;Aantal gevallen;0;0;0;0;0;0;0;0;1;;1;;2;2;3;5
+351;341;Woudenberg;Aantal gevallen;1;1;1;1;1;1;1;2;2;;3;;4;4;6;7
+479;342;Zaanstad;Aantal gevallen;2;2;2;2;2;2;2;2;4;;9;;19;20;29;31
+297;343;Zaltbommel;Aantal gevallen;1;1;1;1;1;1;3;3;3;;5;;7;7;7;7
+473;344;Zandvoort;Aantal gevallen;0;0;0;1;1;1;1;1;1;;2;;3;6;6;6
+50;345;Zeewolde;Aantal gevallen;1;1;1;1;2;2;2;3;3;;4;;4;4;5;6
+355;346;Zeist;Aantal gevallen;3;4;4;4;6;8;12;12;12;;17;;19;20;25;28
+299;347;Zevenaar;Aantal gevallen;0;0;0;0;0;0;0;2;3;;6;;9;10;10;10
+637;348;Zoetermeer;Aantal gevallen;0;0;0;0;0;0;0;1;1;;4;;7;8;13;14
+638;349;Zoeterwoude;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;0;1;1;1
+1892;350;Zuidplas;Aantal gevallen;0;0;0;0;0;0;0;0;0;;1;;3;3;6;10
+879;351;Zundert;Aantal gevallen;2;2;3;3;3;3;4;6;6;;7;;9;11;14;15
+301;352;Zutphen;Aantal gevallen;0;0;0;0;0;0;1;1;1;;4;;6;6;8;8
+1896;353;Zwartewaterland;Aantal gevallen;0;0;2;2;2;2;4;4;5;;15;;19;22;30;33
+642;354;Zwijndrecht;Aantal gevallen;0;0;0;2;3;3;4;5;6;;6;;6;8;9;11
+193;355;Zwolle;Aantal gevallen;2;2;2;3;4;6;8;12;16;;23;;35;40;47;56
