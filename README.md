@@ -1,5 +1,5 @@
 
-## Covid19 Dutch datasets
+# Covid19 Dutch datasets
 In this repository can be found the Dutch data for the 2019 Novel Coronavirus. The datasets are updated daily and based on the data provided by the National Institute for Public Health and the Environment https://www.rivm.nl/coronavirus/covid-19.
 
 
@@ -10,10 +10,10 @@ In this repository can be found the Dutch data for the 2019 Novel Coronavirus. T
  The time series run daily from 11/03/2020.
 
 
-# authors:
+## authors:
  - Andrea Fontanari a.fontanari@cwi.nl
  - Martina Vittorietti m.vittorietti@tudelft.nl
  
-# affiliations:
+## affiliations:
 - Centrum Wiskunde & Informatica
 - Delft University of Technology
