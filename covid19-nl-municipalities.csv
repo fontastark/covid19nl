@@ -1,4 +1,4 @@
-﻿id;id2;Gemeente;Indicator;11-Mar;12-Mar;13-Mar;14-Mar;15-Mar;16-Mar;17-Mar;18-Mar;19-Mar;20-Mar;21-Mar;22-Mar;23-Mar;24-Mar;25-Mar;26-Mar
+id;id2;Gemeente;Indicator;11-Mar;12-Mar;13-Mar;14-Mar;15-Mar;16-Mar;17-Mar;18-Mar;19-Mar;20-Mar;21-Mar;22-Mar;23-Mar;24-Mar;25-Mar;26-Mar
 518;260;'s-Gravenhage;Aantal gevallen;7;7;8;9;10;14;17;21;27;;44;;53;63;81;103
 796;261;'s-Hertogenbosch;Aantal gevallen;5;8;11;14;14;20;24;30;35;;45;;60;67;75;87
 1680;1;Aa en Hunze;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;1;1;1;3
@@ -207,7 +207,7 @@
 267;204;Nijkerk;Aantal gevallen;0;0;0;0;0;1;2;2;2;;4;;7;8;8;12
 268;205;Nijmegen;Aantal gevallen;4;6;8;9;12;17;31;41;48;;60;;79;93;108;122
 1930;206;Nissewaard;Aantal gevallen;0;1;1;1;1;1;3;4;7;;12;;15;17;19;23
-1970;207;Noardeast-FryslÃ¢n;Aantal gevallen;0;0;0;0;0;0;0;0;1;;1;;2;3;3;3
+1970;207;Noardeast-Frysl̢n;Aantal gevallen;0;0;0;0;0;0;0;0;1;;1;;2;3;3;3
 1695;208;Noord-Beveland;Aantal gevallen;0;0;0;0;0;0;0;0;0;;0;;0;1;2;2
 1699;209;Noordenveld;Aantal gevallen;0;0;0;0;0;1;1;1;1;;1;;1;1;1;3
 171;210;Noordoostpolder;Aantal gevallen;0;0;0;2;2;2;2;2;2;;3;;3;4;5;8
@@ -255,7 +255,7 @@
 599;252;Rotterdam;Aantal gevallen;15;15;20;24;25;30;41;58;81;;120;;149;163;186;204
 277;253;Rozendaal;Aantal gevallen;0;0;0;0;1;1;1;2;2;;2;;2;2;2;2
 840;254;Rucphen;Aantal gevallen;0;0;0;0;1;1;1;1;2;;6;;6;6;6;6
-1900;279;SÃºdwest-FryslÃ¢n;Aantal gevallen;0;0;0;0;0;0;4;5;6;;7;;7;10;11;12
+1900;279;S̼dwest-Frysl̢n;Aantal gevallen;0;0;0;0;0;0;4;5;6;;7;;7;10;11;12
 441;255;Schagen;Aantal gevallen;1;1;2;3;4;4;0;0;0;;0;;2;2;2;3
 279;256;Scherpenzeel;Aantal gevallen;0;0;0;0;0;0;1;1;2;;6;;8;10;14;16
 606;257;Schiedam;Aantal gevallen;0;0;0;0;1;1;0;0;0;;0;;0;0;0;0
