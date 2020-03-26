@@ -10,7 +10,7 @@ In this repository can be found the Dutch data for the 2019 Novel Coronavirus. T
  The time series run daily from 11-03-2020.
 
 
-## authors:
+## contact us:
  - Andrea Fontanari a.fontanari@cwi.nl
  - Martina Vittorietti m.vittorietti@tudelft.nl
  
