@@ -1,0 +1,356 @@
+"","id","id2","Gemeente","Indicator","X11.Mar","X12.Mar","X13.Mar","X14.Mar","X15.Mar","X16.Mar","X17.Mar","X18.Mar","X19.Mar","X20.Mar","X21.Mar","X22.Mar","X23.Mar","X24.Mar","X25.Mar","X26.Mar"
+"1",518,260,"'s-Gravenhage","Aantal gevallen",7,7,8,9,10,14,17,21,27,NA,44,NA,53,63,81,103
+"2",796,261,"'s-Hertogenbosch","Aantal gevallen",5,8,11,14,14,20,24,30,35,NA,45,NA,60,67,75,87
+"3",1680,1,"Aa en Hunze","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,1,1,1,3
+"4",358,2,"Aalsmeer","Aantal gevallen",2,2,3,3,3,3,3,3,4,NA,5,NA,8,9,10,11
+"5",197,3,"Aalten","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,1,NA,1,1,2,2
+"6",59,4,"Achtkarspelen","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,0,0,1,1
+"7",482,5,"Alblasserdam","Aantal gevallen",0,0,0,0,0,0,1,1,2,NA,3,NA,4,4,5,6
+"8",613,6,"Albrandswaard","Aantal gevallen",1,1,1,1,1,2,3,4,4,NA,8,NA,14,18,18,19
+"9",361,7,"Alkmaar","Aantal gevallen",1,1,1,1,1,2,2,5,9,NA,11,NA,16,20,24,29
+"10",141,8,"Almelo","Aantal gevallen",1,1,1,1,1,1,1,1,2,NA,4,NA,7,8,10,12
+"11",34,9,"Almere","Aantal gevallen",1,1,1,2,2,3,3,4,5,NA,11,NA,18,21,28,32
+"12",484,10,"Alphen aan den Rijn","Aantal gevallen",2,3,4,6,6,6,6,9,10,NA,15,NA,17,20,22,30
+"13",1723,11,"Alphen-Chaam","Aantal gevallen",0,0,0,1,1,2,3,6,6,NA,7,NA,14,15,16,19
+"14",1959,12,"Altena","Aantal gevallen",4,5,8,9,10,12,12,15,19,NA,22,NA,25,28,35,35
+"15",60,13,"Ameland","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,0,0,0,0
+"16",307,14,"Amersfoort","Aantal gevallen",2,4,4,4,10,18,21,23,30,NA,37,NA,41,44,47,54
+"17",362,15,"Amstelveen","Aantal gevallen",2,2,3,3,3,4,6,7,13,NA,26,NA,29,33,35,46
+"18",363,16,"Amsterdam","Aantal gevallen",8,11,20,31,31,39,56,61,85,NA,161,NA,203,250,297,351
+"19",200,17,"Apeldoorn","Aantal gevallen",1,2,2,3,3,7,7,10,11,NA,16,NA,26,29,34,39
+"20",3,18,"Appingedam","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,0,0,0,0
+"21",202,19,"Arnhem","Aantal gevallen",3,4,4,4,7,7,8,9,10,NA,15,NA,20,23,25,34
+"22",106,20,"Assen","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,1,NA,4,5,5,7
+"23",743,21,"Asten","Aantal gevallen",0,0,0,0,1,1,2,2,2,NA,5,NA,5,6,6,6
+"24",744,22,"Baarle-Nassau","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,1,NA,1,1,2,2
+"25",308,23,"Baarn","Aantal gevallen",0,0,0,0,0,0,0,0,2,NA,1,NA,2,2,4,5
+"26",489,24,"Barendrecht","Aantal gevallen",0,1,1,1,3,3,3,3,4,NA,9,NA,13,15,16,19
+"27",203,25,"Barneveld","Aantal gevallen",0,0,0,0,2,3,4,5,6,NA,8,NA,10,12,13,13
+"28",888,26,"Beek","Aantal gevallen",0,0,0,0,3,3,3,3,3,NA,5,NA,5,9,13,13
+"29",1954,27,"Beekdaelen","Aantal gevallen",8,8,8,9,12,13,15,18,18,NA,19,NA,20,29,30,32
+"30",370,28,"Beemster","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,0,1,2,2
+"31",889,29,"Beesel","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,3,NA,5,6,7,8
+"32",1945,30,"Berg en Dal","Aantal gevallen",3,3,5,6,6,10,14,14,18,NA,25,NA,33,35,37,43
+"33",1724,31,"Bergeijk","Aantal gevallen",1,1,1,1,1,1,1,1,1,NA,1,NA,3,5,10,11
+"34",893,32,"Bergen (L)","Aantal gevallen",0,0,0,0,0,0,0,1,1,NA,1,NA,1,1,1,1
+"35",373,33,"Bergen (NH)","Aantal gevallen",0,0,0,0,1,1,1,2,4,NA,6,NA,9,12,12,14
+"36",748,34,"Bergen op Zoom","Aantal gevallen",1,1,1,1,4,4,5,5,6,NA,9,NA,12,12,12,13
+"37",1859,35,"Berkelland","Aantal gevallen",0,0,0,0,0,0,0,0,1,NA,1,NA,2,2,2,2
+"38",1721,36,"Bernheze","Aantal gevallen",2,4,13,15,16,19,20,26,30,NA,41,NA,62,67,69,83
+"39",753,37,"Best","Aantal gevallen",3,3,3,3,3,4,5,6,6,NA,11,NA,14,17,19,21
+"40",209,38,"Beuningen","Aantal gevallen",3,3,3,4,4,5,6,6,6,NA,9,NA,12,13,15,15
+"41",375,39,"Beverwijk","Aantal gevallen",4,5,5,5,5,5,6,6,6,NA,6,NA,7,11,11,12
+"42",1728,40,"Bladel","Aantal gevallen",0,0,0,1,1,1,1,2,3,NA,7,NA,12,14,15,15
+"43",376,41,"Blaricum","Aantal gevallen",1,1,1,1,1,1,1,2,2,NA,4,NA,4,4,5,6
+"44",377,42,"Bloemendaal","Aantal gevallen",1,1,1,1,1,1,3,3,3,NA,8,NA,11,13,13,16
+"45",1901,43,"Bodegraven-Reeuwijk","Aantal gevallen",0,1,1,1,1,1,1,1,1,NA,3,NA,5,5,5,8
+"46",755,44,"Boekel","Aantal gevallen",7,8,11,12,12,14,14,19,20,NA,32,NA,40,42,42,42
+"47",1681,45,"Borger-Odoorn","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,0,0,0,0
+"48",147,46,"Borne","Aantal gevallen",3,2,3,3,3,3,3,3,3,NA,4,NA,7,8,11,12
+"49",654,47,"Borsele","Aantal gevallen",1,1,1,1,1,2,2,2,3,NA,3,NA,3,4,5,6
+"50",756,48,"Boxmeer","Aantal gevallen",0,0,1,1,1,1,1,2,2,NA,6,NA,7,9,9,10
+"51",757,49,"Boxtel","Aantal gevallen",0,1,1,2,2,3,5,5,6,NA,11,NA,12,15,15,19
+"52",758,50,"Breda","Aantal gevallen",32,42,53,64,71,86,96,105,113,NA,133,NA,161,167,181,201
+"53",501,51,"Brielle","Aantal gevallen",0,0,0,0,0,0,0,0,1,NA,1,NA,1,1,1,2
+"54",1876,52,"Bronckhorst","Aantal gevallen",2,2,2,2,2,2,2,2,3,NA,6,NA,6,7,7,8
+"55",213,53,"Brummen","Aantal gevallen",0,0,0,0,0,0,0,0,1,NA,1,NA,4,4,4,4
+"56",899,54,"Brunssum","Aantal gevallen",0,0,0,0,0,0,2,4,4,NA,6,NA,8,17,20,22
+"57",312,55,"Bunnik","Aantal gevallen",0,0,0,0,0,0,0,0,1,NA,3,NA,4,6,8,9
+"58",313,56,"Bunschoten","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,0,1,3,3
+"59",214,57,"Buren","Aantal gevallen",0,1,2,2,2,4,4,4,5,NA,5,NA,5,6,7,7
+"60",502,58,"Capelle aan den IJssel","Aantal gevallen",0,0,0,0,0,0,1,1,2,NA,3,NA,7,13,23,26
+"61",383,59,"Castricum","Aantal gevallen",0,0,0,4,5,5,5,5,6,NA,7,NA,8,10,10,13
+"62",109,60,"Coevorden","Aantal gevallen",11,11,11,11,11,11,11,12,12,NA,14,NA,14,15,15,17
+"63",1706,61,"Cranendonck","Aantal gevallen",1,1,2,2,2,2,5,6,6,NA,11,NA,19,23,25,31
+"64",1684,62,"Cuijk","Aantal gevallen",1,1,2,2,2,2,2,2,4,NA,4,NA,5,6,8,8
+"65",216,63,"Culemborg","Aantal gevallen",1,1,2,2,2,2,4,4,4,NA,5,NA,5,8,8,14
+"66",148,64,"Dalfsen","Aantal gevallen",0,0,0,0,1,1,1,1,1,NA,5,NA,9,11,12,13
+"67",1891,65,"Dantumadiel","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,0,0,0,1
+"68",310,66,"De Bilt","Aantal gevallen",10,11,11,11,12,13,15,16,16,NA,19,NA,23,27,32,34
+"69",1940,67,"De Fryske Marren","Aantal gevallen",0,1,2,2,3,3,3,5,5,NA,8,NA,8,8,9,12
+"70",736,68,"De Ronde Venen","Aantal gevallen",0,0,0,0,0,2,2,2,2,NA,3,NA,6,8,9,13
+"71",1690,69,"De Wolden","Aantal gevallen",0,0,0,1,1,1,1,1,1,NA,3,NA,3,3,3,3
+"72",503,70,"Delft","Aantal gevallen",1,1,2,2,2,2,2,4,5,NA,11,NA,16,17,21,25
+"73",10,71,"Delfzijl","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,1,1,1,2
+"74",400,72,"Den Helder","Aantal gevallen",1,1,1,1,1,1,1,1,2,NA,3,NA,4,5,5,6
+"75",762,73,"Deurne","Aantal gevallen",3,3,3,3,4,5,8,8,10,NA,19,NA,22,25,30,35
+"76",150,74,"Deventer","Aantal gevallen",0,0,0,0,1,2,4,5,5,NA,16,NA,17,20,26,30
+"77",384,75,"Diemen","Aantal gevallen",2,2,2,2,2,2,2,2,2,NA,3,NA,4,4,6,6
+"78",1774,76,"Dinkelland","Aantal gevallen",2,1,3,4,4,5,5,6,8,NA,13,NA,15,17,20,25
+"79",221,77,"Doesburg","Aantal gevallen",0,0,0,0,1,1,1,1,1,NA,3,NA,4,4,5,5
+"80",222,78,"Doetinchem","Aantal gevallen",0,0,0,0,0,0,0,0,3,NA,5,NA,6,8,10,17
+"81",766,79,"Dongen","Aantal gevallen",4,4,4,5,5,5,5,5,5,NA,2,NA,2,4,6,6
+"82",505,80,"Dordrecht","Aantal gevallen",0,0,1,1,1,1,4,4,8,NA,12,NA,17,23,26,28
+"83",498,81,"Drechterland","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,2,NA,2,3,3,4
+"84",1719,82,"Drimmelen","Aantal gevallen",1,3,5,5,5,7,11,12,13,NA,14,NA,16,17,20,21
+"85",303,83,"Dronten","Aantal gevallen",0,0,2,3,6,7,7,8,9,NA,11,NA,11,11,11,11
+"86",225,84,"Druten","Aantal gevallen",0,0,1,3,5,5,5,5,5,NA,5,NA,6,6,7,7
+"87",226,85,"Duiven","Aantal gevallen",0,0,1,1,1,1,1,2,2,NA,2,NA,2,2,2,3
+"88",1711,86,"Echt-Susteren","Aantal gevallen",0,0,0,0,0,0,2,6,6,NA,11,NA,14,15,20,23
+"89",385,87,"Edam-Volendam","Aantal gevallen",0,0,0,0,0,0,0,0,3,NA,4,NA,6,7,9,10
+"90",228,88,"Ede","Aantal gevallen",0,0,0,0,1,2,2,5,5,NA,13,NA,21,22,26,33
+"91",317,89,"Eemnes","Aantal gevallen",0,0,0,0,0,0,0,1,1,NA,1,NA,1,1,1,1
+"92",770,90,"Eersel","Aantal gevallen",0,1,1,2,2,2,3,4,4,NA,7,NA,10,13,13,14
+"93",1903,91,"Eijsden-Margraten","Aantal gevallen",0,0,0,1,3,4,4,4,4,NA,6,NA,7,15,20,26
+"94",772,92,"Eindhoven","Aantal gevallen",8,8,12,13,21,21,22,23,24,NA,35,NA,55,68,80,93
+"95",230,93,"Elburg","Aantal gevallen",0,0,1,1,1,1,1,1,1,NA,2,NA,4,4,5,6
+"96",114,94,"Emmen","Aantal gevallen",1,1,1,1,1,1,1,2,3,NA,4,NA,6,7,8,8
+"97",388,95,"Enkhuizen","Aantal gevallen",0,0,0,0,0,1,1,1,5,NA,6,NA,8,10,13,15
+"98",153,96,"Enschede","Aantal gevallen",1,3,3,3,3,3,3,4,7,NA,16,NA,20,20,26,34
+"99",232,97,"Epe","Aantal gevallen",0,0,0,0,0,2,2,4,4,NA,6,NA,10,13,15,16
+"100",233,98,"Ermelo","Aantal gevallen",1,3,4,5,7,8,8,8,8,NA,11,NA,13,14,17,17
+"101",777,99,"Etten-Leur","Aantal gevallen",5,5,6,7,8,10,12,13,14,NA,18,NA,24,24,31,37
+"102",779,100,"Geertruidenberg","Aantal gevallen",1,1,1,1,1,3,5,7,7,NA,7,NA,10,10,11,11
+"103",1771,101,"Geldrop-Mierlo","Aantal gevallen",0,1,2,2,2,3,3,3,4,NA,6,NA,8,9,15,16
+"104",1652,102,"Gemert-Bakel","Aantal gevallen",4,7,11,13,16,20,25,26,31,NA,42,NA,56,64,68,71
+"105",907,103,"Gennep","Aantal gevallen",0,0,1,1,1,1,1,2,4,NA,5,NA,7,7,7,8
+"106",784,104,"Gilze en Rijen","Aantal gevallen",0,0,1,1,1,1,1,3,5,NA,7,NA,13,16,18,19
+"107",1924,105,"Goeree-Overflakkee","Aantal gevallen",0,0,1,1,2,4,5,7,8,NA,16,NA,36,43,44,56
+"108",664,106,"Goes","Aantal gevallen",2,2,2,2,2,2,2,3,3,NA,3,NA,3,4,4,7
+"109",785,107,"Goirle","Aantal gevallen",6,6,6,6,6,9,9,9,11,NA,12,NA,13,16,18,21
+"110",1942,108,"Gooise Meren","Aantal gevallen",3,3,3,4,4,4,9,9,10,NA,11,NA,11,12,18,20
+"111",512,109,"Gorinchem","Aantal gevallen",0,0,0,0,0,0,0,0,1,NA,0,NA,2,4,8,9
+"112",513,110,"Gouda","Aantal gevallen",2,2,2,2,3,4,5,7,9,NA,12,NA,16,17,18,25
+"113",786,111,"Grave","Aantal gevallen",0,0,0,0,0,0,0,1,2,NA,6,NA,11,11,11,14
+"114",14,112,"Groningen","Aantal gevallen",0,2,3,3,6,7,7,11,23,NA,39,NA,53,53,58,76
+"115",1729,113,"Gulpen-Wittem","Aantal gevallen",0,0,0,0,1,2,2,2,2,NA,2,NA,2,4,5,5
+"116",158,114,"Haaksbergen","Aantal gevallen",0,0,0,0,1,1,1,1,1,NA,1,NA,3,3,3,4
+"117",788,115,"Haaren","Aantal gevallen",6,6,7,7,7,7,7,9,9,NA,10,NA,12,12,12,14
+"118",392,116,"Haarlem","Aantal gevallen",1,1,4,4,4,6,7,7,10,NA,25,NA,29,41,46,54
+"119",394,117,"Haarlemmermeer","Aantal gevallen",0,0,0,0,1,2,4,4,5,NA,12,NA,18,23,23,30
+"120",1655,118,"Halderberge","Aantal gevallen",0,0,0,0,0,2,2,2,2,NA,5,NA,7,8,8,8
+"121",160,119,"Hardenberg","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,3,NA,4,6,7,9
+"122",243,120,"Harderwijk","Aantal gevallen",0,2,2,2,2,4,4,5,5,NA,5,NA,8,9,13,14
+"123",523,121,"Hardinxveld-Giessendam","Aantal gevallen",5,5,5,5,5,5,5,5,5,NA,6,NA,6,6,6,6
+"124",72,122,"Harlingen","Aantal gevallen",0,0,0,0,0,1,1,1,1,NA,3,NA,3,3,3,3
+"125",244,123,"Hattem","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,1,NA,1,2,3,5
+"126",396,124,"Heemskerk","Aantal gevallen",0,0,1,1,1,2,2,2,3,NA,5,NA,5,7,9,10
+"127",397,125,"Heemstede","Aantal gevallen",1,2,2,2,2,5,5,5,5,NA,11,NA,13,16,17,21
+"128",246,126,"Heerde","Aantal gevallen",0,0,0,0,0,2,3,3,4,NA,9,NA,13,15,19,24
+"129",74,127,"Heerenveen","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,2,NA,3,3,3,4
+"130",398,128,"Heerhugowaard","Aantal gevallen",0,0,0,0,1,1,1,2,2,NA,5,NA,10,15,16,19
+"131",917,129,"Heerlen","Aantal gevallen",1,2,2,4,5,6,8,14,15,NA,19,NA,29,46,53,63
+"132",1658,130,"Heeze-Leende","Aantal gevallen",1,1,1,1,1,2,3,4,4,NA,4,NA,7,7,10,10
+"133",399,131,"Heiloo","Aantal gevallen",0,0,2,2,2,3,3,3,3,NA,4,NA,6,8,9,10
+"134",163,132,"Hellendoorn","Aantal gevallen",2,2,2,2,2,2,2,2,2,NA,3,NA,5,6,7,7
+"135",530,133,"Hellevoetsluis","Aantal gevallen",0,1,1,1,1,1,1,1,1,NA,4,NA,5,5,5,7
+"136",794,134,"Helmond","Aantal gevallen",12,14,16,17,17,17,19,20,22,NA,32,NA,49,55,63,66
+"137",531,135,"Hendrik-Ido-Ambacht","Aantal gevallen",0,2,0,0,0,0,0,0,0,NA,0,NA,2,2,3,5
+"138",164,136,"Hengelo (O)","Aantal gevallen",0,0,0,0,0,3,3,4,4,NA,13,NA,15,16,17,21
+"139",1966,137,"Het Hogeland","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,1,1,4,6
+"140",252,138,"Heumen","Aantal gevallen",0,0,0,0,2,2,3,5,6,NA,7,NA,9,11,12,15
+"141",797,139,"Heusden","Aantal gevallen",2,3,4,4,4,4,4,5,6,NA,11,NA,16,19,20,25
+"142",534,140,"Hillegom","Aantal gevallen",0,0,0,0,0,0,0,1,1,NA,2,NA,2,3,3,3
+"143",798,141,"Hilvarenbeek","Aantal gevallen",1,1,5,5,5,4,4,4,4,NA,5,NA,7,8,10,10
+"144",402,142,"Hilversum","Aantal gevallen",0,0,0,0,0,0,3,3,3,NA,7,NA,7,7,16,18
+"145",1963,143,"Hoeksche Waard","Aantal gevallen",2,1,1,1,2,4,6,8,12,NA,17,NA,23,31,36,43
+"146",1735,144,"Hof van Twente","Aantal gevallen",0,0,0,0,1,1,1,3,3,NA,4,NA,5,5,6,8
+"147",1911,145,"Hollands Kroon","Aantal gevallen",0,0,0,0,0,0,0,1,3,NA,6,NA,8,10,10,14
+"148",118,146,"Hoogeveen","Aantal gevallen",0,0,1,2,2,2,2,3,3,NA,5,NA,5,6,7,7
+"149",405,147,"Hoorn","Aantal gevallen",0,0,0,0,0,1,1,1,2,NA,8,NA,11,12,14,15
+"150",1507,148,"Horst aan de Maas","Aantal gevallen",0,0,2,3,3,5,8,8,10,NA,13,NA,16,17,18,20
+"151",321,149,"Houten","Aantal gevallen",13,13,13,13,13,13,13,14,17,NA,19,NA,25,29,37,43
+"152",406,150,"Huizen","Aantal gevallen",2,1,1,1,1,1,1,2,3,NA,3,NA,3,3,7,8
+"153",677,151,"Hulst","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,0,0,1,1
+"154",353,152,"IJsselstein","Aantal gevallen",1,1,1,1,2,4,6,7,8,NA,11,NA,16,16,18,23
+"155",1884,153,"Kaag en Braassem","Aantal gevallen",0,0,0,0,0,0,0,0,1,NA,1,NA,2,4,5,5
+"156",166,154,"Kampen","Aantal gevallen",0,0,0,0,0,0,1,2,2,NA,12,NA,17,20,30,41
+"157",678,155,"Kapelle","Aantal gevallen",0,0,0,0,0,0,1,2,2,NA,2,NA,2,2,2,2
+"158",537,156,"Katwijk","Aantal gevallen",0,1,1,1,1,1,1,2,2,NA,5,NA,6,6,7,10
+"159",928,157,"Kerkrade","Aantal gevallen",0,0,0,1,2,2,3,3,3,NA,6,NA,8,17,21,26
+"160",1598,158,"Koggenland","Aantal gevallen",0,0,0,1,1,1,1,1,1,NA,1,NA,4,4,5,6
+"161",542,159,"Krimpen aan den IJssel","Aantal gevallen",0,1,1,1,1,1,1,1,2,NA,2,NA,3,3,6,7
+"162",1931,160,"Krimpenerwaard","Aantal gevallen",3,3,3,3,4,4,4,4,5,NA,9,NA,11,12,16,19
+"163",1659,161,"Laarbeek","Aantal gevallen",0,0,1,1,1,1,1,2,4,NA,8,NA,13,17,19,24
+"164",1685,162,"Landerd","Aantal gevallen",2,2,4,5,5,10,14,16,18,NA,20,NA,23,25,25,34
+"165",882,163,"Landgraaf","Aantal gevallen",0,1,2,4,4,4,4,7,7,NA,9,NA,11,18,21,25
+"166",415,164,"Landsmeer","Aantal gevallen",0,2,2,2,3,3,3,3,3,NA,4,NA,5,6,6,7
+"167",416,165,"Langedijk","Aantal gevallen",1,1,3,3,4,4,4,4,4,NA,4,NA,5,12,12,13
+"168",1621,166,"Lansingerland","Aantal gevallen",4,4,4,4,5,5,7,10,13,NA,16,NA,20,24,25,28
+"169",417,167,"Laren","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,0,3,4,5
+"170",80,168,"Leeuwarden","Aantal gevallen",0,1,1,1,1,2,3,4,5,NA,8,NA,10,10,12,15
+"171",546,169,"Leiden","Aantal gevallen",1,1,4,4,4,8,8,11,12,NA,16,NA,16,20,21,28
+"172",547,170,"Leiderdorp","Aantal gevallen",0,0,0,0,0,1,1,2,2,NA,2,NA,2,2,3,4
+"173",1916,171,"Leidschendam-Voorburg","Aantal gevallen",2,2,3,3,3,4,5,6,6,NA,9,NA,10,13,14,17
+"174",995,172,"Lelystad","Aantal gevallen",1,1,3,6,7,8,10,12,13,NA,15,NA,21,24,26,27
+"175",1640,173,"Leudal","Aantal gevallen",3,4,4,6,6,7,8,11,13,NA,20,NA,23,26,29,32
+"176",327,174,"Leusden","Aantal gevallen",0,0,0,0,0,1,1,3,4,NA,6,NA,7,9,13,13
+"177",1705,175,"Lingewaard","Aantal gevallen",2,2,2,3,3,3,3,4,5,NA,6,NA,10,11,14,14
+"178",553,176,"Lisse","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,1,1,2,2
+"179",262,177,"Lochem","Aantal gevallen",0,0,0,0,0,0,0,1,1,NA,2,NA,2,2,6,8
+"180",809,178,"Loon op Zand","Aantal gevallen",7,6,7,7,7,7,8,9,11,NA,14,NA,17,20,20,21
+"181",331,179,"Lopik","Aantal gevallen",0,0,0,0,0,1,2,3,3,NA,4,NA,9,10,11,12
+"182",24,180,"Loppersum","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,0,0,0,1
+"183",168,181,"Losser","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,1,NA,1,1,1,1
+"184",263,182,"Maasdriel","Aantal gevallen",0,0,0,0,0,0,1,1,1,NA,2,NA,2,3,3,5
+"185",1641,183,"Maasgouw","Aantal gevallen",0,0,0,1,2,2,3,4,5,NA,7,NA,9,9,10,12
+"186",556,184,"Maassluis","Aantal gevallen",0,0,0,1,1,1,1,2,2,NA,3,NA,6,7,7,8
+"187",935,185,"Maastricht","Aantal gevallen",8,8,10,16,21,24,33,41,42,NA,57,NA,60,94,112,118
+"188",420,186,"Medemblik","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,1,NA,4,4,4,6
+"189",938,187,"Meerssen","Aantal gevallen",0,0,0,0,0,1,1,2,2,NA,2,NA,3,8,8,8
+"190",1948,188,"Meierijstad","Aantal gevallen",13,18,25,30,34,42,49,60,72,NA,95,NA,127,139,149,168
+"191",119,189,"Meppel","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,1,NA,3,3,3,3
+"192",687,190,"Middelburg","Aantal gevallen",0,0,0,0,0,1,1,2,3,NA,4,NA,6,6,7,8
+"193",1842,191,"Midden-Delfland","Aantal gevallen",0,0,0,0,0,0,0,0,1,NA,2,NA,2,2,2,2
+"194",1731,192,"Midden-Drenthe","Aantal gevallen",0,0,0,0,0,0,0,0,1,NA,1,NA,1,1,1,2
+"195",1952,193,"Midden-Groningen","Aantal gevallen",0,0,0,0,1,1,1,2,2,NA,2,NA,2,2,2,5
+"196",815,194,"Mill en Sint Hubert","Aantal gevallen",0,0,0,0,1,1,1,1,2,NA,2,NA,2,5,5,5
+"197",1709,195,"Moerdijk","Aantal gevallen",0,1,1,1,1,1,1,1,2,NA,3,NA,3,4,5,5
+"198",1978,196,"Molenlanden","Aantal gevallen",0,0,0,0,1,2,3,7,9,NA,11,NA,11,13,16,16
+"199",1955,197,"Montferland","Aantal gevallen",0,0,0,0,0,0,0,1,1,NA,1,NA,3,3,3,4
+"200",335,198,"Montfoort","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,2,3,5,9
+"201",944,199,"Mook en Middelaar","Aantal gevallen",0,0,0,0,0,0,0,0,1,NA,1,NA,3,5,5,5
+"202",1740,200,"Neder-Betuwe","Aantal gevallen",1,1,3,3,4,4,4,4,4,NA,5,NA,9,11,11,13
+"203",946,201,"Nederweert","Aantal gevallen",0,0,1,3,3,3,5,7,7,NA,7,NA,9,11,14,18
+"204",356,202,"Nieuwegein","Aantal gevallen",0,0,0,0,1,1,3,4,6,NA,9,NA,11,11,12,15
+"205",569,203,"Nieuwkoop","Aantal gevallen",0,0,1,1,1,1,1,1,1,NA,2,NA,3,4,6,6
+"206",267,204,"Nijkerk","Aantal gevallen",0,0,0,0,0,1,2,2,2,NA,4,NA,7,8,8,12
+"207",268,205,"Nijmegen","Aantal gevallen",4,6,8,9,12,17,31,41,48,NA,60,NA,79,93,108,122
+"208",1930,206,"Nissewaard","Aantal gevallen",0,1,1,1,1,1,3,4,7,NA,12,NA,15,17,19,23
+"209",1970,207,"Noardeast-Frysl̢n","Aantal gevallen",0,0,0,0,0,0,0,0,1,NA,1,NA,2,3,3,3
+"210",1695,208,"Noord-Beveland","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,0,1,2,2
+"211",1699,209,"Noordenveld","Aantal gevallen",0,0,0,0,0,1,1,1,1,NA,1,NA,1,1,1,3
+"212",171,210,"Noordoostpolder","Aantal gevallen",0,0,0,2,2,2,2,2,2,NA,3,NA,3,4,5,8
+"213",575,211,"Noordwijk","Aantal gevallen",2,2,2,2,2,2,2,2,3,NA,3,NA,6,6,7,8
+"214",820,212,"Nuenen, Gerwen en Nederwetten","Aantal gevallen",1,1,1,1,1,1,1,1,1,NA,1,NA,4,4,8,10
+"215",302,213,"Nunspeet","Aantal gevallen",0,0,1,1,1,2,2,3,3,NA,9,NA,17,22,29,31
+"216",579,214,"Oegstgeest","Aantal gevallen",2,2,2,4,4,4,4,4,5,NA,7,NA,7,8,9,9
+"217",823,215,"Oirschot","Aantal gevallen",0,0,0,0,0,1,1,1,1,NA,1,NA,3,4,6,8
+"218",824,216,"Oisterwijk","Aantal gevallen",4,5,6,6,6,9,10,10,10,NA,15,NA,16,16,18,21
+"219",1895,217,"Oldambt","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,0,0,0,0
+"220",269,218,"Oldebroek","Aantal gevallen",0,1,1,1,1,2,2,5,5,NA,6,NA,7,8,12,16
+"221",173,219,"Oldenzaal","Aantal gevallen",0,0,0,1,1,1,1,2,3,NA,6,NA,6,8,13,15
+"222",1773,220,"Olst-Wijhe","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,2,NA,2,4,6,6
+"223",175,221,"Ommen","Aantal gevallen",0,0,0,1,1,1,1,2,2,NA,4,NA,6,6,7,7
+"224",1586,222,"Oost Gelre","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,2,NA,2,6,6,6
+"225",826,223,"Oosterhout","Aantal gevallen",0,0,3,4,5,6,8,9,9,NA,13,NA,22,23,26,29
+"226",85,224,"Ooststellingwerf","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,0,0,1,1
+"227",431,225,"Oostzaan","Aantal gevallen",0,0,0,0,0,0,1,2,2,NA,3,NA,5,5,6,7
+"228",432,226,"Opmeer","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,0,0,0,2
+"229",86,227,"Opsterland","Aantal gevallen",2,2,2,2,2,2,2,2,2,NA,2,NA,3,3,4,5
+"230",828,228,"Oss","Aantal gevallen",2,3,3,4,5,11,14,20,26,NA,44,NA,65,73,81,100
+"231",1509,229,"Oude IJsselstreek","Aantal gevallen",0,0,0,0,0,1,2,2,2,NA,4,NA,4,4,4,5
+"232",437,230,"Ouder-Amstel","Aantal gevallen",0,0,0,0,0,0,2,3,3,NA,4,NA,5,7,7,7
+"233",589,231,"Oudewater","Aantal gevallen",0,0,0,0,1,1,1,1,2,NA,3,NA,4,7,10,12
+"234",1734,232,"Overbetuwe","Aantal gevallen",0,0,0,4,6,8,9,9,11,NA,20,NA,30,33,38,44
+"235",590,233,"Papendrecht","Aantal gevallen",0,0,0,0,0,0,0,0,1,NA,2,NA,5,5,6,6
+"236",1894,234,"Peel en Maas","Aantal gevallen",3,4,8,10,14,19,31,36,41,NA,63,NA,69,79,88,96
+"237",765,235,"Pekela","Aantal gevallen",0,1,1,1,1,1,1,1,1,NA,2,NA,2,2,2,2
+"238",1926,236,"Pijnacker-Nootdorp","Aantal gevallen",5,5,6,6,7,8,10,11,11,NA,11,NA,12,14,16,20
+"239",439,237,"Purmerend","Aantal gevallen",1,1,2,2,2,2,2,4,7,NA,14,NA,22,23,32,39
+"240",273,238,"Putten","Aantal gevallen",0,0,0,0,0,2,2,2,2,NA,3,NA,3,3,5,6
+"241",177,239,"Raalte","Aantal gevallen",0,1,1,1,1,2,3,3,3,NA,3,NA,5,6,10,12
+"242",703,240,"Reimerswaal","Aantal gevallen",0,1,1,1,1,2,2,3,4,NA,5,NA,5,6,7,7
+"243",274,241,"Renkum","Aantal gevallen",7,7,7,7,8,8,8,8,8,NA,9,NA,10,11,12,14
+"244",339,242,"Renswoude","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,0,0,0,0
+"245",1667,243,"Reusel-De Mierden","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,1,1,1,4
+"246",275,244,"Rheden","Aantal gevallen",1,1,1,1,1,1,2,3,4,NA,7,NA,12,15,18,21
+"247",340,245,"Rhenen","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,1,1,1,2
+"248",597,246,"Ridderkerk","Aantal gevallen",1,1,1,1,1,1,1,1,1,NA,4,NA,5,7,9,13
+"249",1742,247,"Rijssen-Holten","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,3,NA,4,4,9,13
+"250",603,248,"Rijswijk","Aantal gevallen",0,0,0,0,0,1,2,3,3,NA,4,NA,7,8,10,11
+"251",1669,249,"Roerdalen","Aantal gevallen",0,0,0,0,0,0,0,1,1,NA,4,NA,7,10,10,11
+"252",957,250,"Roermond","Aantal gevallen",1,1,1,2,2,2,4,6,13,NA,18,NA,23,26,28,29
+"253",1674,251,"Roosendaal","Aantal gevallen",1,1,2,2,5,6,6,6,7,NA,8,NA,16,18,20,24
+"254",599,252,"Rotterdam","Aantal gevallen",15,15,20,24,25,30,41,58,81,NA,120,NA,149,163,186,204
+"255",277,253,"Rozendaal","Aantal gevallen",0,0,0,0,1,1,1,2,2,NA,2,NA,2,2,2,2
+"256",840,254,"Rucphen","Aantal gevallen",0,0,0,0,1,1,1,1,2,NA,6,NA,6,6,6,6
+"257",1900,279,"S̼dwest-Frysl̢n","Aantal gevallen",0,0,0,0,0,0,4,5,6,NA,7,NA,7,10,11,12
+"258",441,255,"Schagen","Aantal gevallen",1,1,2,3,4,4,0,0,0,NA,0,NA,2,2,2,3
+"259",279,256,"Scherpenzeel","Aantal gevallen",0,0,0,0,0,0,1,1,2,NA,6,NA,8,10,14,16
+"260",606,257,"Schiedam","Aantal gevallen",0,0,0,0,1,1,0,0,0,NA,0,NA,0,0,0,0
+"261",88,258,"Schiermonnikoog","Aantal gevallen",0,0,0,0,0,0,2,2,2,NA,3,NA,3,3,6,8
+"262",1676,259,"Schouwen-Duiveland","Aantal gevallen",2,2,2,2,2,2,4,5,5,NA,5,NA,5,7,8,10
+"263",965,262,"Simpelveld","Aantal gevallen",2,2,2,2,3,3,4,5,8,NA,12,NA,13,13,13,14
+"264",1702,263,"Sint Anthonis","Aantal gevallen",0,0,0,2,2,3,8,10,10,NA,12,NA,14,17,18,22
+"265",845,264,"Sint-Michielsgestel","Aantal gevallen",5,5,5,6,6,8,42,51,51,NA,58,NA,61,84,86,94
+"266",1883,265,"Sittard-Geleen","Aantal gevallen",20,20,23,35,37,38,1,1,1,NA,3,NA,3,4,5,7
+"267",610,266,"Sliedrecht","Aantal gevallen",0,0,0,0,0,0,2,2,2,NA,3,NA,4,5,5,6
+"268",1714,267,"Sluis","Aantal gevallen",0,0,0,0,1,2,3,3,3,NA,3,NA,3,3,4,5
+"269",90,268,"Smallingerland","Aantal gevallen",1,1,1,2,3,3,11,12,13,NA,15,NA,16,20,21,23
+"270",342,269,"Soest","Aantal gevallen",8,8,8,8,8,10,2,3,3,NA,5,NA,7,7,10,15
+"271",847,270,"Someren","Aantal gevallen",0,0,0,1,1,1,4,4,5,NA,8,NA,10,13,15,19
+"272",848,271,"Son en Breugel","Aantal gevallen",1,1,2,2,2,4,0,0,0,NA,0,NA,0,0,0,1
+"273",37,272,"Stadskanaal","Aantal gevallen",0,0,0,0,0,0,1,1,2,NA,3,NA,4,4,4,4
+"274",180,273,"Staphorst","Aantal gevallen",0,0,0,1,1,1,1,1,3,NA,5,NA,8,9,13,17
+"275",532,274,"Stede Broec","Aantal gevallen",0,0,0,0,0,1,2,2,4,NA,5,NA,8,9,11,11
+"276",851,275,"Steenbergen","Aantal gevallen",0,0,0,0,1,2,1,1,1,NA,3,NA,4,5,6,8
+"277",1708,276,"Steenwijkerland","Aantal gevallen",0,0,0,0,0,0,3,4,4,NA,5,NA,9,24,24,28
+"278",971,277,"Stein","Aantal gevallen",1,1,1,3,3,3,8,9,10,NA,10,NA,13,16,22,27
+"279",1904,278,"Stichtse Vecht","Aantal gevallen",5,5,6,6,7,7,1,2,2,NA,4,NA,5,6,8,12
+"280",715,280,"Terneuzen","Aantal gevallen",0,0,0,1,1,1,2,3,4,NA,5,NA,6,6,10,14
+"281",93,281,"Terschelling","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,0,0,0,0
+"282",448,282,"Texel","Aantal gevallen",0,0,0,0,0,0,0,0,2,NA,3,NA,3,3,3,3
+"283",1525,283,"Teylingen","Aantal gevallen",0,0,0,0,0,1,2,2,2,NA,5,NA,7,7,8,10
+"284",716,284,"Tholen","Aantal gevallen",0,0,0,0,1,1,1,2,2,NA,7,NA,8,11,13,14
+"285",281,285,"Tiel","Aantal gevallen",1,2,2,2,3,4,4,4,4,NA,4,NA,6,8,14,20
+"286",855,286,"Tilburg","Aantal gevallen",42,50,67,68,68,84,88,95,119,NA,154,NA,193,211,224,230
+"287",183,287,"Tubbergen","Aantal gevallen",1,1,1,1,1,1,1,1,3,NA,3,NA,4,4,4,9
+"288",1700,288,"Twenterand","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,1,NA,2,3,3,3
+"289",1730,289,"Tynaarlo","Aantal gevallen",0,0,0,0,0,NA,1,3,4,NA,7,NA,8,10,13,15
+"290",737,290,"Tytsjerksteradiel","Aantal gevallen",0,0,0,0,0,1,1,1,1,NA,1,NA,1,1,2,2
+"291",856,291,"Uden","Aantal gevallen",18,21,25,28,33,43,49,53,60,NA,76,NA,84,92,94,107
+"292",450,292,"Uitgeest","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,2,NA,4,4,4,4
+"293",451,293,"Uithoorn","Aantal gevallen",0,0,0,0,0,0,0,1,2,NA,2,NA,2,4,5,7
+"294",184,294,"Urk","Aantal gevallen",0,0,0,0,0,0,0,1,4,NA,6,NA,7,7,7,8
+"295",344,295,"Utrecht","Aantal gevallen",18,25,26,30,38,48,60,69,83,NA,121,NA,145,160,191,215
+"296",1581,296,"Utrechtse Heuvelrug","Aantal gevallen",2,2,2,2,2,3,5,6,8,NA,8,NA,14,14,15,17
+"297",981,297,"Vaals","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,0,3,4,6
+"298",994,298,"Valkenburg aan de Geul","Aantal gevallen",0,0,0,0,0,1,2,2,2,NA,4,NA,4,8,9,10
+"299",858,299,"Valkenswaard","Aantal gevallen",0,0,0,0,0,0,0,1,1,NA,4,NA,5,8,9,17
+"300",47,300,"Veendam","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,0,0,1,1
+"301",345,301,"Veenendaal","Aantal gevallen",0,1,1,1,1,1,1,1,2,NA,2,NA,6,6,7,7
+"302",717,302,"Veere","Aantal gevallen",1,1,1,1,1,1,1,1,1,NA,5,NA,6,6,6,7
+"303",861,303,"Veldhoven","Aantal gevallen",1,1,1,1,1,1,1,1,2,NA,9,NA,11,14,18,22
+"304",453,304,"Velsen","Aantal gevallen",0,1,1,1,1,4,4,4,4,NA,8,NA,11,15,15,23
+"305",983,305,"Venlo","Aantal gevallen",1,2,2,3,4,6,8,12,21,NA,33,NA,35,40,47,54
+"306",984,306,"Venray","Aantal gevallen",0,0,0,0,0,0,0,1,3,NA,8,NA,10,13,17,20
+"307",1961,307,"Vijfheerenlanden","Aantal gevallen",1,1,2,2,2,3,4,4,7,NA,9,NA,12,18,21,24
+"308",622,308,"Vlaardingen","Aantal gevallen",0,1,1,1,1,1,2,2,4,NA,12,NA,15,18,22,24
+"309",96,309,"Vlieland","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,0,0,0,0
+"310",718,310,"Vlissingen","Aantal gevallen",0,2,2,2,2,3,4,4,5,NA,6,NA,8,8,8,8
+"311",986,311,"Voerendaal","Aantal gevallen",0,0,0,0,0,0,1,3,3,NA,4,NA,4,5,6,7
+"312",626,312,"Voorschoten","Aantal gevallen",0,0,0,0,0,0,0,1,1,NA,2,NA,3,3,5,6
+"313",285,313,"Voorst","Aantal gevallen",1,1,1,1,1,1,1,1,1,NA,2,NA,2,3,6,10
+"314",865,314,"Vught","Aantal gevallen",1,2,2,2,2,3,6,7,8,NA,11,NA,17,19,22,25
+"315",1949,315,"Waadhoeke","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,0,0,0,2
+"316",866,316,"Waalre","Aantal gevallen",1,1,1,1,1,1,1,2,2,NA,2,NA,2,3,2,6
+"317",867,317,"Waalwijk","Aantal gevallen",6,6,9,8,8,10,11,12,13,NA,16,NA,24,29,34,39
+"318",627,318,"Waddinxveen","Aantal gevallen",1,1,1,1,1,1,1,1,3,NA,4,NA,4,4,5,6
+"319",289,319,"Wageningen","Aantal gevallen",0,0,0,0,0,0,1,1,1,NA,3,NA,3,3,3,4
+"320",629,320,"Wassenaar","Aantal gevallen",0,0,1,2,2,3,3,3,4,NA,5,NA,5,5,5,6
+"321",852,321,"Waterland","Aantal gevallen",1,1,1,1,2,3,3,4,7,NA,8,NA,9,10,11,11
+"322",988,322,"Weert","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,7,NA,12,17,24,28
+"323",457,323,"Weesp","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,1,NA,1,2,6,7
+"324",1960,324,"West Betuwe","Aantal gevallen",2,2,3,3,3,3,6,6,8,NA,12,NA,15,17,19,22
+"325",668,325,"West Maas en Waal","Aantal gevallen",1,2,2,2,3,3,3,3,3,NA,4,NA,7,8,11,13
+"326",1969,326,"Westerkwartier","Aantal gevallen",0,0,0,0,1,1,1,1,3,NA,3,NA,8,8,9,12
+"327",1701,327,"Westerveld","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,1,NA,2,2,2,2
+"328",293,328,"Westervoort","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,1,NA,2,2,2,2
+"329",1950,329,"Westerwolde","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,0,0,3,3
+"330",1783,330,"Westland","Aantal gevallen",0,0,0,0,1,1,3,6,7,NA,11,NA,21,25,28,30
+"331",98,331,"Weststellingwerf","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,1,NA,1,1,1,2
+"332",614,332,"Westvoorne","Aantal gevallen",1,1,1,2,3,3,3,3,3,NA,3,NA,7,8,8,8
+"333",189,333,"Wierden","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,0,0,1,2
+"334",296,334,"Wijchen","Aantal gevallen",1,2,3,2,4,5,6,8,8,NA,17,NA,21,23,24,30
+"335",1696,335,"Wijdemeren","Aantal gevallen",0,0,0,0,0,0,0,1,1,NA,1,NA,1,1,3,4
+"336",352,336,"Wijk bij Duurstede","Aantal gevallen",1,2,2,3,3,3,4,4,4,NA,6,NA,6,6,6,7
+"337",294,337,"Winterswijk","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,1,NA,2,2,2,2
+"338",873,338,"Woensdrecht","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,3,4,5,5
+"339",632,339,"Woerden","Aantal gevallen",2,2,2,2,2,2,3,4,4,NA,6,NA,14,19,22,25
+"340",880,340,"Wormerland","Aantal gevallen",0,0,0,0,0,0,0,0,1,NA,1,NA,2,2,3,5
+"341",351,341,"Woudenberg","Aantal gevallen",1,1,1,1,1,1,1,2,2,NA,3,NA,4,4,6,7
+"342",479,342,"Zaanstad","Aantal gevallen",2,2,2,2,2,2,2,2,4,NA,9,NA,19,20,29,31
+"343",297,343,"Zaltbommel","Aantal gevallen",1,1,1,1,1,1,3,3,3,NA,5,NA,7,7,7,7
+"344",473,344,"Zandvoort","Aantal gevallen",0,0,0,1,1,1,1,1,1,NA,2,NA,3,6,6,6
+"345",50,345,"Zeewolde","Aantal gevallen",1,1,1,1,2,2,2,3,3,NA,4,NA,4,4,5,6
+"346",355,346,"Zeist","Aantal gevallen",3,4,4,4,6,8,12,12,12,NA,17,NA,19,20,25,28
+"347",299,347,"Zevenaar","Aantal gevallen",0,0,0,0,0,0,0,2,3,NA,6,NA,9,10,10,10
+"348",637,348,"Zoetermeer","Aantal gevallen",0,0,0,0,0,0,0,1,1,NA,4,NA,7,8,13,14
+"349",638,349,"Zoeterwoude","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,0,NA,0,1,1,1
+"350",1892,350,"Zuidplas","Aantal gevallen",0,0,0,0,0,0,0,0,0,NA,1,NA,3,3,6,10
+"351",879,351,"Zundert","Aantal gevallen",2,2,3,3,3,3,4,6,6,NA,7,NA,9,11,14,15
+"352",301,352,"Zutphen","Aantal gevallen",0,0,0,0,0,0,1,1,1,NA,4,NA,6,6,8,8
+"353",1896,353,"Zwartewaterland","Aantal gevallen",0,0,2,2,2,2,4,4,5,NA,15,NA,19,22,30,33
+"354",642,354,"Zwijndrecht","Aantal gevallen",0,0,0,2,3,3,4,5,6,NA,6,NA,6,8,9,11
+"355",193,355,"Zwolle","Aantal gevallen",2,2,2,3,4,6,8,12,16,NA,23,NA,35,40,47,56
