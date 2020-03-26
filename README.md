@@ -5,9 +5,9 @@ In this repository can be found the Dutch data for the 2019 Novel Coronavirus. T
 
 
 * covid19-nl.csv: file containing time series of country level data on confirmed covid19 cases, deaths, ICU beds occupation.
-  The time serires run daily from 01/03/2020.
+  The time serires run daily from 01-03-2020.
 * covid19-nl-municipalities.csv: file containing time series of municipaly level confirmed covid19 cases
- The time series run daily from 11/03/2020.
+ The time series run daily from 11-03-2020.
 
 
 ## authors:
